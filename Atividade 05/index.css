@@ -1,0 +1,30 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 310px;
+  background-color: blueviolet;
+}
+
+.container{
+    width: 300px;
+    height: 400px;
+    padding: 30px;
+    border: 2px solid black;
+    overflow: auto;
+}
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    color: black;
+    height: 75px;
+    width: 200px;
+    border-radius: 30px;
+}
+#botao{
+    margin: 0 auto;
+}
