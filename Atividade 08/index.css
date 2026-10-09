@@ -1,0 +1,18 @@
+body {
+  background-color: blanchedalmond;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 310px;
+  color: brown;
+}
+input {
+  background-color: aliceblue;
+  color: black;
+  height: 50px;
+  width: 200px;
+  border-radius: 20px;
+}
+#sabor {
+  text-align: center;
+}
