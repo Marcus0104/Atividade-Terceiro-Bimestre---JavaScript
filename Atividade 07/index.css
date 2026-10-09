@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  color: #ff0000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 210px;
+}
+#trocar, p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0  auto;
+}
+button {
+  height: 75px;
+  width: 150px;
+  color: blue;
+  border-radius: 30px;
+}
+.container {
+  display: block;
+}
