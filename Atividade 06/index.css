@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 310px;
+}
+.container{
+        display: block;
+
+}
+button{
+    display: flex;
+    background-color: blue;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+    width: 150px;
+    border-radius: 30px;
+}
+#botao{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
